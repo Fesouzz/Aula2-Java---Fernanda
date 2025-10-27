@@ -9,7 +9,7 @@
  */
 public class ExercicioUm {
         public static void main (String [] args) {
-            int valor = -6;       
+            int valor = -4;       
             if (valor >=0){
             System.out.println("positivo");
             } else {
@@ -17,3 +17,4 @@ public class ExercicioUm {
             }
         }
 }
+
