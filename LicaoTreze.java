@@ -9,7 +9,7 @@
  */
 public class LicaoTreze {
         public static void main(String[] args) {
-        double ph = 6.8;
+        double ph = 5.9;
 
         if (ph < 7) {
             System.out.println("Ácido");
@@ -21,3 +21,4 @@ public class LicaoTreze {
         }
 
 }
+
