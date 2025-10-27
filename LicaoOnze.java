@@ -9,9 +9,9 @@
  */
 public class LicaoOnze {
     public static void main(String [] args){
-    int ladoUm = 5;
-    int ladoDois = 5;
-    int ladoTres = 3;
+    int ladoUm = 3;
+    int ladoDois = 3;
+    int ladoTres = 7;
     
     if (ladoUm == ladoDois && ladoDois == ladoTres){
     System.out.println("Triângulo Equilatero");
@@ -20,4 +20,5 @@ public class LicaoOnze {
     else {
         System.out.println("Triângulo Escaleno");}
     }
+
 }
