@@ -9,7 +9,7 @@
  */
 public class LicaoQuatorze {
         public static void main(String[] args) {
-        int mes = 10;
+        int mes = 2;
 
         if (mes == 12 || mes == 1 || mes == 2) {
             System.out.println("Verão");
@@ -22,3 +22,4 @@ public class LicaoQuatorze {
         }
         }
 }
+
