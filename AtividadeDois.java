@@ -10,7 +10,7 @@
 public class AtividadeDois {
     public static void main (String [] args) {
        
-        int idade = 18;        
+        int idade = 17;        
         if (idade >=18){            
         System.out.println("você é maior de idade");
         } else { 
@@ -19,3 +19,4 @@ public class AtividadeDois {
    
     } 
 }
+
