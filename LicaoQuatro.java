@@ -9,7 +9,7 @@
  */
 public class LicaoQuatro {
     public static void main(String [] args){
-    int num = 5;
+    int num = 2;
     
     if (num%2 == 0){
     System.out.println("Par");
@@ -17,3 +17,4 @@ public class LicaoQuatro {
         System.out.println("Impar");}
     }
 }
+
