@@ -9,7 +9,7 @@
  */
 public class LicaoDezesseis {
         public static void main(String[] args) {
-        int num1 = 8;
+        int num1 = 3;
         int num2 = 5;
 
         if (num1 > num2) {
@@ -21,3 +21,4 @@ public class LicaoDezesseis {
     }
 }
 }
+
