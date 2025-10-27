@@ -9,7 +9,7 @@
  */
 public class LicaoSete {
     public static void main(String [] args){
-    int num = 5;
+    int num = 18;
     
     if (num >=10 && num <=20){
         System.out.println("O número está dentro do intervalo");
@@ -18,3 +18,4 @@ public class LicaoSete {
     }
     }
 }
+
