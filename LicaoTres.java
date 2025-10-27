@@ -9,7 +9,7 @@
  */
 public class LicaoTres {
     public static void main(String [] args){
-        int num = -5;
+        int num = 0;
         if (num > 0){
         System.out.println("Número positivo");
         } else if (num <0){
@@ -20,3 +20,4 @@ public class LicaoTres {
         
     }
 }
+
