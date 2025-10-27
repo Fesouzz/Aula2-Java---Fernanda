@@ -9,7 +9,7 @@
  */
 public class ExercicioDois {
     public static void main(String [] args){
-        int valor= 25;
+        int valor= 35;
         
         if (valor %5== 0) {
         System.out.println("divisivel por 5");}
@@ -17,3 +17,4 @@ public class ExercicioDois {
         System.out.println("não divisivel por 5");}
     }
 }
+
