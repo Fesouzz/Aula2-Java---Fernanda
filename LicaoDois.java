@@ -10,7 +10,7 @@
 public class LicaoDois {
     public static void main(String [] args){
         //entrada
-    int nascimento = 2006;
+    int nascimento = 2008;
     int atual = 2025;
     
     //processamento
@@ -26,3 +26,4 @@ public class LicaoDois {
     
     }
 }
+
